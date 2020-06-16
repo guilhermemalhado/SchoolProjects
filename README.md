@@ -1,2 +1,2 @@
-# SocketC_c-s
+# SchoolProjects
 Cliente / Server communication JAVA Sockets with custom protocol
